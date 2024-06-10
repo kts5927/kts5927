@@ -4,23 +4,23 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kts5927)](https://solved.ac/kts5927/)
 # Skills
 ### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+![Python](https://img.shields.io/badge/Python-20232a.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
+![typescript](https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+<img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-### 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+### Library & Framework 
+![react](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/node.js-20232a?style=for-the-badge&logo=Node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/nest.js-20232a?style=for-the-badge&logo=nestjs&logoColor=E0234E">
 
 
 
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-20232a.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/docker-20232a.svg?&style=for-the-badge&logo=docker&logoColor=2496ED)
 
  
 # :mailbox_with_mail: Contacts
