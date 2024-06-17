@@ -3,7 +3,7 @@
 ![Taeseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kts5927&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kts5927)](https://solved.ac/kts5927/)
 # Skills
-### Platforms & Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-20232a.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
 ![typescript](https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
