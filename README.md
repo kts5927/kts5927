@@ -4,11 +4,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kts5927)](https://solved.ac/kts5927/)
 # Skills
 ### Languages
+![](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=OpenJDK&logoColor=007396)
 ![Python](https://img.shields.io/badge/Python-20232a.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
 ![typescript](https://img.shields.io/badge/typescript-20232a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 <img src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ### Library & Framework 
+![springboot](https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
 ![react](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 <img src="https://img.shields.io/badge/node.js-20232a?style=for-the-badge&logo=Node.js&logoColor=339933">
 <img src="https://img.shields.io/badge/nest.js-20232a?style=for-the-badge&logo=nestjs&logoColor=E0234E">
