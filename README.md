@@ -16,11 +16,15 @@
 <img src="https://img.shields.io/badge/nest.js-20232a?style=for-the-badge&logo=nestjs&logoColor=E0234E">
 
 
+### CI/CD
+![jenkins](https://img.shields.io/badge/jenkins-20232a.svg?style=for-the-badge&logo=jenkins&logoColor=##D24939)
+![amazons3](https://img.shields.io/badge/amazons3-20232a.svg?style=for-the-badge&logo=amazons3&logoColor=###569A31)
+![amazonec2](https://img.shields.io/badge/amazonec2-20232a.svg?style=for-the-badge&logo=amazonec2&logoColor=###FF9900)
 
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![intellijidea](https://img.shields.io/badge/intellijidea-20232a.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000)
 ![Git](https://img.shields.io/badge/Git-20232a.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/docker-20232a.svg?&style=for-the-badge&logo=docker&logoColor=2496ED)
 
